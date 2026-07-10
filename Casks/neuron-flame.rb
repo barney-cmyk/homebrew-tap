@@ -13,7 +13,7 @@ cask "neuron-flame" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Neuron Flame.app"
 
