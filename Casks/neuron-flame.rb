@@ -1,6 +1,6 @@
 cask "neuron-flame" do
-  version "1.95"
-  sha256 "c88a9cf3480810d982df4827684c0c0b7f0c57d9103c03b56440e2c892052b7a"
+  version "1.96"
+  sha256 "b7b415ec834dd3049db745d84c6a3b78e9733f7f867eb4218c06eb4e7afa5440"
 
   url "https://neuronflame.com/downloads/Neuron%20Flame-#{version}.dmg"
   name "Neuron Flame"
