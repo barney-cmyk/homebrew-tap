@@ -4,7 +4,7 @@ cask "neuron-flame" do
 
   url "https://neuronflame.com/downloads/Neuron%20Flame-#{version}.dmg"
   name "Neuron Flame"
-  desc "Voice-to-text for macOS with 100% local transcription on the Neural Engine"
+  desc "Voice-to-text with 100% local transcription on the Neural Engine"
   homepage "https://neuronflame.com/"
 
   livecheck do
